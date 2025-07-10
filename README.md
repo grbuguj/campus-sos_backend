@@ -3,7 +3,10 @@
 
 캠퍼스 내 도움 요청 플랫폼 Campus SOS의 백엔드입니다.  
 본인은 SMTP 메일 인증 / 배포 전반을 담당하였습니다.
+
 발표자료 : https://keepbara.my.canva.site/sos
+![image](https://github.com/user-attachments/assets/04c0f80e-47f4-480e-bfeb-4f584d394ef6)
+
 
 ## 🔧 사용 기술
 - **Spring Boot**, JPA, Spring Security
